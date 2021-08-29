@@ -8,9 +8,16 @@
     <kbd><img alt="Letmeask" title="Letmeask" src="./public/readmeContent/letmeask1.png" /></kbd>
 </p>
 
+<p align="center">
+ <a href="#-about-the-project">About the project</a> •
+ <a href="#-technologies">Technologies</a> •
+ <a href="#-getting-started">Getting started</a> •
+ <a href="#-license">License</a>
+</p>
+
 <br>
 
-## 📚 LetMeAsk
+## 📚 About the project
 
 The project consists in an application that can help content creators to get questions to their stream with a ranking system based on upvotes. They can integrate a Twitch channel to get questions via channel chat if the message contains the hashtag #letmeask.
 
