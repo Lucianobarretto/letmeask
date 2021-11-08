@@ -12,6 +12,7 @@
  <a href="#-about-the-project">About the project</a> •
  <a href="#-technologies">Technologies</a> •
  <a href="#-getting-started">Getting started</a> •
+ <a href="#-layout">Layout</a> • 
  <a href="#-license">License</a>
 </p>
 
